@@ -17,6 +17,7 @@ allowed_types = [
     "t2.micro",
     "t2.small",
     "t2.medium",
+    "t3a.medium",
 ]
 
 # Rule to enforce "Name" tag on all instances
